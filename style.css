@@ -1,0 +1,77 @@
+body {
+    background-color: rgba(157, 77, 232, 0.787);
+    margin-left: 1000px;
+    margin-top:350px;
+     
+    
+}
+h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 30px;
+    padding-top: 15px;
+}
+hr {
+    color: rgba(27, 26, 26, 0.239);
+}
+.biger {
+    background-color: rgb(255, 253, 253);
+    align-items: center;
+    width: 800px;
+    height: 850px;
+    background-size: cover; 
+    border-radius: 7px;
+    box-shadow: 10px 10px 10px rgb(18, 13, 13);
+}
+.more {
+    align-items: center;
+    margin-top: 30px;
+    text-align: center;
+    background-color: rgba(55, 11, 248, 0.827);
+    height: 60px;
+    margin-left: 70px;
+    margin-right: 70px;
+    border-radius: 7px;
+    display: flex;
+    justify-content: center;
+   color: azure;
+}
+.total {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    color: rgba(188, 188, 188, 0.886);
+ 
+    
+}
+.total2 {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    color: rgba(188, 188, 188, 0.886);
+}
+
+.trello:hover {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding-top:25px ;
+}
+.realtie:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding-bottom: 100px;
+    padding-right: 50px;
+}
+.drop:hover {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding-top: 50px;
+}
+.slack:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding-top:auto ;
+}
+.jira:hover {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.add:hover {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+    
